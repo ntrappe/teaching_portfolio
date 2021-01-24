@@ -12,5 +12,4 @@
 
 ### Week 3 Content
 :pushpin: Snap! Repeats/**Mouse Drawing Octogon** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/kvCKC_aA2751k9HoBxfpBBpZA1IpVKGYbO56dlCQEAqgQF-tIBN1lEaK-l85P_0S.1B6hLaZq0Nx8hkpC)
-)
 
