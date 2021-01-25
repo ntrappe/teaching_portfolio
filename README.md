@@ -13,3 +13,5 @@
 ### Week 3 Content
 :pushpin: Snap! Repeats/**Mouse Drawing Octogon** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/kvCKC_aA2751k9HoBxfpBBpZA1IpVKGYbO56dlCQEAqgQF-tIBN1lEaK-l85P_0S.1B6hLaZq0Nx8hkpC)
 
+:pushpin: Snap! Events/**Banana Monkey Game** available through this [Google Drive](https://drive.google.com/file/d/1vPCJFl_4EzLUHyYa7lYbELM0qgOQtY1t/view?usp=sharing).
+
