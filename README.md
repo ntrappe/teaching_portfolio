@@ -15,3 +15,7 @@
 
 :pushpin: Snap! Events/**Banana Monkey Game** available through this [Google Drive](https://drive.google.com/file/d/1vPCJFl_4EzLUHyYa7lYbELM0qgOQtY1t/view?usp=sharing).
 
+### Week 4 Content
+:pushpin: Snap! Variables/**Drawing Shapes** availble through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/px7Bgf3djJU3vILZWrE4KBsScWliClioU8sz6w-Fvxl43_VUbRTYzejLQr0Ak-dS.BUJqn0Y-wLjp7Gv2)
+
+
