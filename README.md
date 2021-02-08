@@ -18,4 +18,8 @@
 ### Week 4 Content
 :pushpin: Snap! Variables/**Drawing Shapes** availble through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/px7Bgf3djJU3vILZWrE4KBsScWliClioU8sz6w-Fvxl43_VUbRTYzejLQr0Ak-dS.BUJqn0Y-wLjp7Gv2)
 
+### Week 5 Content
+:pushpin: Snap! Conditional Loops/**Soccer Ball** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/1RDOnfC1-0DvWaof23L3SDeYz6iWjzi3NER3jG6a7yKfCOhFHDPz3Qt_bRW0sJYH.ldn8Lri4YcNxQFlS)
+
+
 
