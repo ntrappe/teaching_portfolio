@@ -21,5 +21,7 @@
 ### Week 5 Content
 :pushpin: Snap! Conditional Loops/**Soccer Ball** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/1RDOnfC1-0DvWaof23L3SDeYz6iWjzi3NER3jG6a7yKfCOhFHDPz3Qt_bRW0sJYH.ldn8Lri4YcNxQFlS)
 
+### Week 6 Content
+:pushpin: Snap! if-else conditionals/**Target and Ball** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/hfcnBeGAtfV_6841ukExmVFIlO5bxIuBTE-v_S5GdRcAAEpRBD52OsBatOG-voKj.5oEIOEa6Ict-jWvb)
 
 
