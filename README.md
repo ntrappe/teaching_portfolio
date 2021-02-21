@@ -24,4 +24,6 @@
 ### Week 6 Content
 :pushpin: Snap! if-else conditionals/**Target and Ball** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/hfcnBeGAtfV_6841ukExmVFIlO5bxIuBTE-v_S5GdRcAAEpRBD52OsBatOG-voKj.5oEIOEa6Ict-jWvb)
 
+### Week 7 Content
+:pushpin: Snap! nested if-else conditionals/**Penguin on Beach** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/jKPM19LNnzCb_eDTHUL9yV4Ouy95M0R_giw9JeLlRJfxKPHoNA8YgzOitLAjf-VM.hR1CbD7tdM4HVKf4)
 
