@@ -27,3 +27,6 @@
 ### Week 7 Content
 :pushpin: Snap! nested if-else conditionals/**Penguin on Beach** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/jKPM19LNnzCb_eDTHUL9yV4Ouy95M0R_giw9JeLlRJfxKPHoNA8YgzOitLAjf-VM.hR1CbD7tdM4HVKf4)
 
+### Week 8 Content
+:pushpin: Snap! nested true/false conditionals/**Buried Treasure** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/asg3-A3poWpLhsMYBTEhraOwKAJDAtBA_qRGUcRPe9zZceIiklf--rd2QsCMFxyi.NY9Gk7hg-2OG_lug)
+
