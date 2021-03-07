@@ -30,3 +30,6 @@
 ### Week 8 Content
 :pushpin: Snap! nested true/false conditionals/**Buried Treasure** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/asg3-A3poWpLhsMYBTEhraOwKAJDAtBA_qRGUcRPe9zZceIiklf--rd2QsCMFxyi.NY9Gk7hg-2OG_lug)
 
+### Week 9 Content
+:pushpin: Snap! nested true/false conditionals/**Buried Treasure** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/0XSudgRFmis9JGLDn3vKpaPXgGfcb3FblxGAHGA5b5630Cm2PX_9sLoCckksyKQV.aT8OFqb3PlmXPeuV)
+
