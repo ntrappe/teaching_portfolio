@@ -34,5 +34,5 @@
 :pushpin: Snap! blocks/abstractions/**Drawing** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/0XSudgRFmis9JGLDn3vKpaPXgGfcb3FblxGAHGA5b5630Cm2PX_9sLoCckksyKQV.aT8OFqb3PlmXPeuV)
 
 ### Week 10 Content
-:pushpin: Snap! lists/**Countries** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/Ilo5fZBrmOCnKfcFc-iK9rNEJOv7yPAtmvUijd0OLirw9j93WqfK9zvNlUXXsdpg.1zfyu3XeKeOl4IfX)
+:pushpin: Snap! lists/**Countries** available through this [Zoom cloud recording.](https://ucsd.zoom.us/rec/share/CuKEDAmspp2IDvbTbSnO8QjFvSH7HHbMATHN86TaXXllj6yVxmuD5zhz_KtwXUc9.uiMcSWmnCbQ7TM0c)
 
